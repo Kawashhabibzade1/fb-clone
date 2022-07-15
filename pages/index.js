@@ -14,7 +14,7 @@ export default function Home() {
         />
       </Head>
 
-      <h1>Lets build Facebook</h1>
+      <h1 className="text-2xl">Lets build Facebook</h1>
     </div>
   );
 }
